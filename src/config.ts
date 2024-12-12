@@ -1,0 +1,5 @@
+export const CLICKUP_CONFIG = {
+  TOKEN: 'pk_152605665_FP88B5USRFZSLIRTWV1A74JXHYQ9X1RY',
+  LIST_ID: '901804306790',
+  API_URL: 'https://api.clickup.com/api/v2'
+};
